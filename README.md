@@ -13,7 +13,8 @@
 <p>
  Esse projeto foi desenvolvido durante o curso do Alura com as seguintes tecnologias: 
   <div>
-  -  <img align="center" alt="Renan-Js" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br/>
-  -  <img align="center" alt="Renan-Js" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  - <img align="center" alt="Renan-Js" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  - <img align="center" alt="Renan-Js" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  - <img align="center" alt="Renan-Js" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
 </p>
