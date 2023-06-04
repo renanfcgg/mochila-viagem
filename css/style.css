@@ -103,6 +103,7 @@ html {
 .lista {
     margin: 0;
     padding: 0;
+    width: 50%;
 }
 
 .item {
@@ -135,6 +136,9 @@ html {
     .conteudo {
         flex-direction: column;
         align-items: center;
+    }
+    .lista {
+        width: auto;
     }
 }
 
